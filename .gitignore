@@ -1,0 +1,46 @@
+*.tmSession
+*.tmProject
+*.tmWorkspace
+*.tmBundle
+*.tmTheme
+*.tmCommand
+*.tmSnippet
+*.tmLanguage
+*.tmMacro
+*.tmPreferences
+*.tmSettings
+*.tmSession
+*.tmProject
+*.tmWorkspace
+*.tmBundle
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.babelrc
+.cache/
+.parcel-cache/
+.next/
+out/
+dist/
+build/
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+
+# Flask
+instance/
+.webassets-cache
